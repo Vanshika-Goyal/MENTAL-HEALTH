@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital@1&family=Noto+Sans+KR&family=Nunito:wght@200;400&family=Pattaya&display=swap');
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.Full{height: 1000vh;width: 100%;}
+.Top{border: 5px solid black;height:23vh}
+.Bottom{border: 5px solid black;height:23vh}
+.Middle{border: 5px solid black;height:23vh}
