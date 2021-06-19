@@ -4,6 +4,28 @@
 
 *{margin: 0;padding: 0;box-sizing: border-box;}
 .Full{height: 1000vh;width: 100%;}
-.Top{border: 5px solid black;height:23vh}
-.Bottom{border: 5px solid black;height:23vh}
-.Middle{border: 5px solid black;height:23vh}
+.Top{height:96vh;width: 100%;background-image: url("../../assets/img/Homebackground.png");background-size: 41cm;background-repeat: no-repeat;}
+.Header{display: flex;height: 13vh;}
+.logo img{width: 15vh;height: 10vh;}
+.Navbar ul{display: flex;list-style: none;justify-content: flex-end;margin-left: 650px;}
+.Navbar li{padding: 30px;font-weight: 700;font-size: 20px;}
+.Navbar li:hover{background: #292f3f;color: aqua;}
+.Content{display: flex;}
+.left{height:83vh;width: 50%;background-image: url("../../assets/img/Doctor.png");background-repeat: no-repeat;}
+.right{height:78vh;width:50%;}
+.heading{color: #ffff;padding: 5px;;margin: 20px;font-size: 25px;padding: 20px;}
+.text p{color: #ffff;font-size: 20px;padding: 20px;}
+.Middle{height:90vh;}
+.cards{display: flex;margin: 5px;}
+.cards div{margin: 20px;}
+.card1{box-shadow:2px 3px 3px 2px #9b9a9a;height: 85vh;width: 25cm;}
+ h1{width: 50%;margin:0cm 0cm 0cm 4cm;}
+.Image1{height: 50vh;background-image: url("../../assets/img/pic1.png");background-repeat: no-repeat;background-size: 100%;}
+.Image2{height: 50vh;background-image: url("../../assets/img/pic2.png");background-repeat: no-repeat;background-size: 100%;}
+.Image3{height: 50vh;background-image: url("../../assets/img/pic3.png");background-repeat: no-repeat;background-size: 100%;}
+.context{font-size: 18px;padding: 5px;}
+.card2{box-shadow:2px 3px 3px 2px #9b9a9a;height: 85vh;width: 25cm;}
+.card3{box-shadow:2px 3px 3px 2px #9b9a9a;height: 85vh;width: 25cm;}
+.Bottom{height:70vh;width: 100%;margin: 40px;display: flex;margin-left: 0px;}
+.LEFTDIV{height: 70vh;width: 50%;background-image: url("../../assets/img/homeback1.png");background-repeat: no-repeat;background-size: 26cm;height: 70vh;width: 50%;}
+.RIGHTDIV{height: 70vh;width: 50%;background-image: url("../../assets/img/homeback2.png");background-repeat: no-repeat;background-size: 20cm;height: 70vh;width: 50%;}

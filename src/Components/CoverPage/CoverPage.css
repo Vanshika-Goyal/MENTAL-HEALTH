@@ -5,7 +5,7 @@
 
 *{margin: 0;padding: 0;box-sizing: border-box;}
 .main{width: 97%;height: 97.5vh;padding: 4px;margin: 8px;}
-.Coverpagewrapper{border:5px solid #292f3f;border-radius: 15px;background-image: url("../../assets/img/peacetbackground.png");background-size: 31cm;background-repeat: no-repeat;}
+.Coverpagewrapper{height: 95vh;width: 100%;box-shadow:3px 5px 5px 3px #7c7c7c;border: 10px solid #f9f9f9;border-radius: 18px;background-image: url("../../assets/img/peacetbackground.png");background-size: 31cm;background-repeat: no-repeat;}
 .backgimg img{ width: 100vh;height: 100vh;background-repeat: repeat-x;}
 .Header{display: flex;height: 12vh;}
 .logo img{width: 15vh;height: 10vh;}
@@ -17,6 +17,6 @@
 .Leftside p{margin-left: 80px;}
 .Rightside{width: 70%;height: 79vh;}
 .Webname{padding: 40px;margin-left: 30%;font-size: 40px;font-weight: 1000;font-family: 'Montserrat', sans-serif;color: #292f3f;}
-.Image img{width: 130vh;height: 57vh;border-radius: 132px;margin-left: 49px;margin-top: 11px;}
+.Image img{width: 130vh;height: 55vh;border-radius: 132px;margin-left: 49px;margin-top: 11px;}
 
 
